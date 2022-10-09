@@ -6,3 +6,5 @@ please title your file properly
 
 <strong>
   keep checking your hackoberfest profile to see is this repo and your pull request is accepted by them
+
+Please star this repo
