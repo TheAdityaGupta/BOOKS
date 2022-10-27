@@ -4,7 +4,7 @@
 <br>
   </BOLD>
 # STEPS TO CREATE A VALID PULL REQUEST <br>
-Add all books you have in separe folders as per class course or degree.<br>
+Add all books you have in separate folders as per class course or degree.<br>
 create new folder is you dont find any suitable folder for your book or notes .<br>
 please title your file properly<br>
 <br><br>
