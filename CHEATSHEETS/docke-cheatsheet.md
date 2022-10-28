@@ -7,6 +7,7 @@ created: 2022-10-22
 ## Table of Contents
 
 - [Docker CheatSheet for Developers](#docker-cheatsheet-for-developers)
+  - [Installing Docker](#installing-docker)
   - [Run a New Container](#run-a-new-container)
   - [Manage Containers](#manage-containers)
   - [Manage Images](#manage-images)
@@ -14,6 +15,32 @@ created: 2022-10-22
   - [Info and Stats](#info-and-stats)
 
 # Docker CheatSheet for Developers
+
+## Installing Docker
+
+1. Windows Installation
+
+### Install from the command line
+
+- After downloading Docker Desktop Installer.exe, run the following command in a terminal to install Docker Desktop:
+
+  ```"Docker Desktop Installer.exe" install```
+
+- If you’re using PowerShell you should run it as:
+
+  ```Start-Process 'Docker Desktop Installer.exe' -Wait install```
+
+- If using the Windows Command Prompt:
+
+	```start /w "" "Docker Desktop Installer.exe" install```
+
+2. Ubuntu Installation
+
+  - Install Docker Engine
+    1. Update the apt package index:
+    ```sudo apt-get update```
+    2. To install the latest version, run:
+    ```sudo apt-get install docker-ce docker-ce-cli containerd.io           docker-compose-plugin``` 
 
 ## Run a new Container
 
