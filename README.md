@@ -4,7 +4,7 @@
 <br>
   </BOLD>
 # STEPS TO CREATE A VALID PULL REQUEST <br>
-Add all books you have in separe folders as per class course or degree.<br>
+Add all books you have in separate folders as per class course or degree.<br>
 create new folder is you dont find any suitable folder for your book or notes .<br>
 please title your file properly<br>
 <br><br>
@@ -13,3 +13,13 @@ please title your file properly<br>
   keep checking your hackoberfest profile to see is this repo and your pull request is accepted by them<br>
   EDIT: THIS REPO IS NOT EXCLUDED AND ALL CONTIBITION WILL BE ACCEPTED AFTER 7 DAYS BY HACKTOBERFEST<br>
 
+## Contributors
+
+**Thanks goes to these wonderful people ❤️**
+
+<br/>
+<div align="center">
+<a href="https://github.com/TheAdityaGupta/BOOKS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheAdityaGupta/BOOKS&max=1000&columns=11" width=97%/>
+</a>
+</div>
