@@ -1,1 +1,1 @@
-Digitak Integrated Circuits
+Digital Integrated Circuits
